@@ -1,0 +1,51 @@
+div#basset{color:#333333;
+
+  margin-bottom: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+   font-size: 14px;
+   width:450px;
+   border: solid #D62443 3px;
+
+}
+div#yorkshire{color:#333333;
+
+  margin-bottom: 50px;
+   font-size: 14px;
+   width:450px;
+   border: solid #D62443 3px;
+}
+div#rottweiler{color:#333333;
+
+  margin-bottom: 100px;
+  margin-right: 50px;
+   font-size: 14px;
+   width:450px;
+   border: solid #D62443 3px;
+}
+
+div#empresa{width:100%;
+position:fixed;
+  height: 50px;
+  background-color: #D62443;
+  color:white;
+  text-align: center;
+
+}
+
+img{width: 150px;
+  height: 150px;
+  border: solid #D62443 1px;
+}
+div#basset h2 {background-color: #D7D7D7;
+color: green;
+text-align:right;
+}
+
+div#yorkshire h2 {background-color: #D7D7D7;
+color: green;
+text-align:right; }
+
+div#rottweiler h2 {background-color: #D7D7D7;
+color: green;
+text-align:right;}
